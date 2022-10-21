@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketLeagueInfoFinder", "RocketLeagueInfoFinder\RocketLeagueInfoFinder.csproj", "{E061583E-5BD4-4845-9DF5-A439C7AE274B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E061583E-5BD4-4845-9DF5-A439C7AE274B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E061583E-5BD4-4845-9DF5-A439C7AE274B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E061583E-5BD4-4845-9DF5-A439C7AE274B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E061583E-5BD4-4845-9DF5-A439C7AE274B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C418A63-938E-4018-B746-AC34D268F867}
+	EndGlobalSection
+EndGlobal
